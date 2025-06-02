@@ -1,5 +1,7 @@
 # 🔐 StreamPGP – Self-Hosted Web PGP Tool
 
+![Screenshot 2025-06-02 192434](https://github.com/user-attachments/assets/15d20e1d-cb8d-4354-96c2-3d0d19fbf591)
+
 A simple web-based PGP tool built using Python + Streamlit. Encrypt and decrypt messages directly in your browser. 100% client-side, nothing stored.
 
 ## 🚀 Features
