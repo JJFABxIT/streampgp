@@ -1,9 +1,9 @@
 import streamlit as st 
 from app import pgp_utils
 
-st.set_page_config(page_title="🔐 PGP Tool", layout="centered")
+st.set_page_config(page_title="🔐 StreamPGP", layout="centered")
 st.title("🔐 StreamPGP")
-st.subheader("Self-Hosted Web PGP Tool")
+st.subheader("PGP Encryption/Decryption Tool")
 
 mode = st.radio("Choose Mode:", ["Encrypt", "Decrypt"])
 
